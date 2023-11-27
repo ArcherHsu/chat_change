@@ -1,30 +1,9 @@
 
 #input 
-
-Allen
-哈囉
-你好
-Tom
-你好
-今天一樣是買三份雞肉飯嗎?
-Allen
-對
-飲料一樣紅茶
-Tom
-半糖去冰對不對
-Allen
-對，謝謝，我十分鐘後到
-
-
+![image](https://github.com/ArcherHsu/chat_change/assets/49467193/153232e0-4a87-4c3b-a512-d8df53a699e0)
 
 
 #output
 
-Allen:哈囉
-Allen:你好
-Tom:你好
-Tom:今天一樣是買三份雞肉飯嗎?
-Allen:對
-Allen:飲料一樣紅茶
-Tom:半糖去冰對不對
-Allen:對，謝謝，我十分鐘後到
+![image](https://github.com/ArcherHsu/chat_change/assets/49467193/c579e2cb-1336-4453-b56b-90b0e7eacad6)
+
